@@ -5,8 +5,11 @@
 }
 
 body {
-  background-size: 100%;
   background-image: url(./Img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 900px;
+  background-size: cover;
 }
 
 .imglogo {
